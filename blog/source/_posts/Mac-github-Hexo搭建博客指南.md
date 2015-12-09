@@ -5,9 +5,9 @@ tags: Hexo
 ---
 开始不明白觉得好麻烦，一路踩坑，最后发现其实也蛮简单的！
 
-## 一、程序安装
+## 程序安装
 需要安装3个东西 nodejs、git、hexo
-### 1、安装nodejs
+### 安装nodejs
  hexo是基于nodejs的,所以先从这个开始。
  
 [点击下载](https://nodejs.org/en/)
@@ -26,14 +26,14 @@ npm -v
 
 
 
-### 2、安装git
+### 安装git
 hexo提交部署github需要使用git工具，到git官网下载安装包吧！
 
 [点击下载](http://git-scm.com/download/) 并安装。
 
 ![](http://7xp069.com1.z0.glb.clouddn.com/201512080003.jpg)
 
-### 3、安装hexo
+### 安装hexo
 使用命令行：
 
 ```
@@ -43,8 +43,8 @@ sudo npm install hexo-cli -g
 如果安装不报错，那么安装文件就算是完成了！
 
 
-## 二、开始bolg之旅
-### 1、创建blog
+## 开始bolg之旅
+### 创建blog
 创建bolg很简单哦，只需要下列命令行。
 
 cd到你需要创建的目录下：
@@ -57,7 +57,7 @@ npm install    ＃载入npm   报错了请查看是否进入到blog目录里
 
 ![](http://7xp069.com1.z0.glb.clouddn.com/201512080004.jpg)
 
-### 2、编辑并生成可发布文件
+### 编辑并生成可发布文件
 
 操作请到cd到项目里面执行
 
@@ -68,7 +68,7 @@ hexo server    #本地部署启动服务器 打开浏览器http://localhost:4000
 hexo deploy    ＃生成部署文件，可放到git服务端
 ```
 
-### 3、将项目发布到git
+### 将项目发布到git
 如何创建git仓库，请自己查找，网上很多。
 
 到github新建一个项目，项目名为：你的用户名.github.io必须为这个名字
@@ -94,7 +94,7 @@ deploy:
 
 打开你的用户名.github.io就看到你的博客了。
 
-### 4、写文章
+### 写文章
 
 ```
 hexo new "My New Post"
@@ -104,9 +104,9 @@ hexo new "My New Post"
 
 可以使用一个支持markdown语法的编辑器（我是使用Mou）来编辑该文件
 
-## 五、其他
+## 其他
 
-### 1、更换淘宝源（针对网络不好的童鞋）
+### 更换淘宝源（针对网络不好的童鞋）
 
 ```
 sudo npm install nrm -g
@@ -114,7 +114,7 @@ nrm use taobao
 ```
 
 
-#### 参考：
+### 参考：
 [cnfeat.com](http://cnfeat.com/blog/2014/05/10/how-to-build-a-blog/)
 
 [jianshu.com](http://www.jianshu.com/p/465830080ea9)

@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 哇哈哈...
+title: 哇哈哈
 subtitle:
-description: 没事瞎写写
+description: 人生不能太无聊
 author: flyer
-language: zh-CN
+language: zh-Hans
 timezone:
 
 # URL
@@ -64,7 +64,15 @@ pagination_dir: page
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 theme: next
+
+#头像
+avatar: http://7xp069.com1.z0.glb.clouddn.com/selficon.jpg
+
+# Baidu Analytics ID
 baidu_analytics: 217b46709033061c4abcb3586912ba50
+
+# Disqus 评论
+disqus_shortname: flyer012
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
@@ -72,3 +80,9 @@ deploy:
   type: git
   repository: git@github.com:flyer012/flyer012.github.io.git
   branch: master
+
+#gitcafe国内使用
+#deploy:
+#  type: github
+#  repository: git@gitcafe.com:zippera/zippera.git
+#  branch: gitcafe-pages
