@@ -63,7 +63,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: next
+baidu_analytics: 217b46709033061c4abcb3586912ba50
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
