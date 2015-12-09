@@ -123,7 +123,7 @@ nrm use taobao
 
 [markdown样板](https://www.zybuluo.com/mdeditor)
 
-[hexo主题列表](https://github.com/tommy351/hexo/wiki/Themes)
+[hexo主题列表](https://github.com/hexojs/hexo/wiki/Themes)
 
 [hexo官网](http://hexo.io)
 
