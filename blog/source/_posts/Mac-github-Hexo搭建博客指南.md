@@ -51,9 +51,7 @@ cd到你需要创建的目录下：
 
 ```
 hexo init blog  #创建一个blog名称为blog
-
 cd blog    ＃进入blog目录
-
 npm install    ＃载入npm   报错了请查看是否进入到blog目录里
 ```
 
@@ -65,13 +63,9 @@ npm install    ＃载入npm   报错了请查看是否进入到blog目录里
 
 ```
 hexo clean    ＃清理之前编译
-
 hexo generate    ＃生成编译
-
 hexo server    #本地部署启动服务器 打开浏览器http://localhost:4000查看
-
 hexo deploy    ＃生成部署文件，可放到git服务端
-
 ```
 
 ### 3、将项目发布到git
