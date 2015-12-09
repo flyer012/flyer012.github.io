@@ -5,7 +5,7 @@
 # Site
 title: 哇哈哈
 subtitle:
-description: 人生不能太无聊
+description: 生活不能无聊
 author: flyer
 language: zh-Hans
 timezone:
@@ -66,7 +66,7 @@ pagination_dir: page
 theme: next
 
 #头像
-avatar: http://7xp069.com1.z0.glb.clouddn.com/selficon.jpg
+avatar: http://7xp069.com1.z0.glb.clouddn.com/selficonp8.png
 
 # Baidu Analytics ID
 baidu_analytics: 217b46709033061c4abcb3586912ba50
