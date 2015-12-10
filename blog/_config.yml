@@ -76,13 +76,22 @@ disqus_shortname: flyer012
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repository: git@github.com:flyer012/flyer012.github.io.git
-  branch: master
+#deploy:
+#  type: git
+#  repository: git@github.com:flyer012/flyer012.github.io.git
+#  branch: master
 
 #gitcafe国内使用
 #deploy:
-#  type: github
-#  repository: git@gitcafe.com:zippera/zippera.git
+#  type: git
+#  repository: git@gitcafe.com:flyer012/flyer012.git
 #  branch: gitcafe-pages
+
+#通用github和gitcafe
+deploy:
+- type: git
+  repo: git@gitcafe.com:flyer012/flyer012.git
+  branch: gitcafe-pages
+- type: git
+  repository: git@github.com:flyer012/flyer012.github.io.git
+  branch: master
