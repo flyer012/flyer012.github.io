@@ -1,7 +1,7 @@
 title: Mac-SublimeText 2 插件使用
 date: 2015-12-22 12:00:20
 categories: 其他
-tags: [SublimeText2,Package control]
+tags: [技术,SublimeText2,Package control]
 ---
 每次使用Sublime Text 2都会忘记怎么弄，然后又四处查找，浪费时间。今天又浪费了一个多小时，所以，记录下来。
 

@@ -1,7 +1,7 @@
 title: Mac+github+Hexo搭建博客指南
 date: 2015-12-08 16:14:15
 categories: 其他
-tags: Hexo
+tags: [Hexo,技术]
 ---
 开始不明白觉得好麻烦，一路踩坑，最后发现其实也蛮简单的！
 
