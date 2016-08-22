@@ -127,6 +127,8 @@ curious.gift
 
 2、coding里发布文件代码分支应该是coding-pages，紧记！
 
+3、[coding文档地址](https://coding.net/help/doc/pages/index.html)
+
 
 ### 参考：
 [cnfeat.com](http://cnfeat.com/blog/2014/05/10/how-to-build-a-blog/)
