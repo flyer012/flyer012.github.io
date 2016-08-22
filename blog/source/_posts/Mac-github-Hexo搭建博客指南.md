@@ -113,6 +113,20 @@ sudo npm install nrm -g
 nrm use taobao
 ```
 
+## 注意事项（重要）
+
+自己亲自踩过来得坑，都是泪！
+
+1、github需要配域名文件，放到public发布文件里面。
+
+文件名：CNAME
+
+```
+curious.gift
+```
+
+2、coding里发布文件代码分支应该是coding-pages，紧记！
+
 
 ### 参考：
 [cnfeat.com](http://cnfeat.com/blog/2014/05/10/how-to-build-a-blog/)
