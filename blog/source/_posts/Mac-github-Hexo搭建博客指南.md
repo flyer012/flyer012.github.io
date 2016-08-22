@@ -130,3 +130,5 @@ nrm use taobao
 [markdown使用](http://www.markdown.cn)
 
 [七牛图床说明](http://www.jianshu.com/p/13725d818565)
+
+[将hexo博客同时托管到github和coding](http://www.jianshu.com/p/7ad9d3cd4d6e)

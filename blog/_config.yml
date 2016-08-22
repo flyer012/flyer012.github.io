@@ -74,12 +74,12 @@ baidu_analytics: 217b46709033061c4abcb3586912ba50
 # Disqus 评论
 disqus_shortname: flyer012
 
-# Deployment
-## Docs: http://hexo.io/docs/deployment.html
-#deploy:
-#  type: git
-#  repository: git@github.com:flyer012/flyer012.github.io.git
-#  branch: master
+#Deployment
+# Docs: http://hexo.io/docs/deployment.html
+deploy:
+ type: git
+ repository: git@github.com:flyer012/flyer012.github.io.git
+ branch: master
 
 #gitcafe国内使用
 #deploy:
@@ -87,11 +87,11 @@ disqus_shortname: flyer012
 #  repository: git@gitcafe.com:flyer012/flyer012.git
 #  branch: gitcafe-pages
 
-#通用github和gitcafe
-deploy:
-- type: git
-  repo: git@gitcafe.com:flyer012/flyer012.git
-  branch: gitcafe-pages
-- type: git
-  repository: git@github.com:flyer012/flyer012.github.io.git
-  branch: master
+# #通用github和gitcafe
+# deploy:
+# - type: git
+#   repo: git@git.coding.net:flyer012/flyer012.git
+#   branch: master
+# - type: git
+#   repository: git@github.com:flyer012/flyer012.github.io.git
+#   branch: master
