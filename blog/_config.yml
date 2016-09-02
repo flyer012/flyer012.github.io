@@ -96,7 +96,7 @@ disqus_shortname: flyer012
 #通用github和gitcafe
 deploy:
 - type: git
-  repo: git@coding.net:flyer012/flyer012.git
+  repo: git@git.coding.net:flyer012/flyer012.git
   branch: coding-pages
 - type: git
   repository: git@github.com:flyer012/flyer012.github.io.git
